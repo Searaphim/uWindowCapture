@@ -1,3 +1,6 @@
+This fork is for compatibility with Unity 2021+ and is maintained only as a dependency for my own project.
+Therefore there is no guarantee that this will work or keep working for other usecases.
+
 uWindowCapture
 ===================
 
