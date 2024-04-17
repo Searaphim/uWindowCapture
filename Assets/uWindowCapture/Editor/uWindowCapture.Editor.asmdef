@@ -1,15 +1,15 @@
 {
     "name": "uWindowCapture.Editor",
-    "references": [
-        "GUID:56dd35f9b6f21364494ed8365264cbf6"
-    ],
+    "references": [],
     "includePlatforms": [
         "Editor"
     ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": true,
-    "precompiledReferences": [],
+    "precompiledReferences": [
+        "MyModLib.dll"
+    ],
     "autoReferenced": false,
     "defineConstraints": [],
     "versionDefines": [],
