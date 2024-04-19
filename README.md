@@ -1,11 +1,18 @@
 This fork is for compatibility with Unity 2021+ and is maintained only as a dependency for my own project.
 Therefore there is no guarantee that this will work or keep working for other usecases.
 
+Use the released packaged or build your own.
+
+	To build the uWindowCapture package:
+	- get the repo's latest release (the zipped source code or clone via git)
+	- Launch the project in Unity
+	- In the project explorer, right click: 'Assets -> uWindowCapture'
+	- Uncheck 'Plugins/x86' if present, we don't need it. 
+	- Hit export and save to an easy to remember location.
 uWindowCapture
 ===================
 
 **uWindowCapture** is an Unity asset to capture windows and make them available in Unity as `Texture2D`.
-
 
 Screenshots
 ------------
