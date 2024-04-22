@@ -6,7 +6,7 @@ Use the released packaged or build your own.
 	To build the uWindowCapture package:
 	- get the repo's latest release (the zipped source code or clone via git)
 	- Launch the project in Unity
-	- In the project explorer, right click: 'Assets -> uWindowCapture'
+	- In the project explorer, right click 'Assets/uWindowCapture' then click 'Export package.."
 	- Uncheck 'Plugins/x86' if present, we don't need it. 
 	- Hit export and save to an easy to remember location.
 uWindowCapture
