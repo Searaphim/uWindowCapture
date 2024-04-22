@@ -8,7 +8,7 @@
     "allowUnsafeCode": false,
     "overrideReferences": true,
     "precompiledReferences": [
-        "MyModLib.dll"
+        "CVRPlayTogetherLib.dll"
     ],
     "autoReferenced": false,
     "defineConstraints": [],
